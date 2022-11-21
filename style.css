@@ -1,0 +1,12 @@
+body
+{
+ background-size: cover;
+}
+ canvas{
+    margin: 0;
+ }
+ h1{
+    width: 100%;
+    background-color: blue;
+    margin-top: 0%;
+ }
